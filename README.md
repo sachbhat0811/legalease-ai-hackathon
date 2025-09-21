@@ -9,7 +9,8 @@
 
 > 🏆 **Google Cloud Gen AI Exchange Hackathon Submission**: Transform complex legal documents into clear, actionable insights using AI
 
-LegalEase AI is an intelligent document analysis platform that helps users understand complex legal documents through AI-powered analysis. Whether you're a business owner reviewing contracts or an individual navigating legal documents, LegalEase provides comprehensive insights in plain English.
+LegalEase AI is an intelligent document analysis platform that helps users understand complex legal documents through AI-powered analysis. 
+Whether you're a business owner reviewing contracts or an individual navigating legal documents, LegalEase provides comprehensive insights in plain English, with future support for Indian languages.
 
 ## ✨ Features
 
@@ -39,7 +40,7 @@ LegalEase AI is an intelligent document analysis platform that helps users under
 
 ## 🎥 Demo
 
-*[Add screenshots or demo video here]*
+https://drive.google.com/drive/u/2/folders/1O-S-VCPnChHxrJt7jgBmgRPYNmjgbYrn
 
 **Key Workflows:**
 1. **Upload** → Drag & drop your legal document
@@ -203,9 +204,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🏆 Hackathon Information
 
-**Project Category**: Legal Tech / AI Innovation
-**Development Time**: [Your timeframe]
-**Team Size**: [Your team size]
+**Project Category**: Generative AI for Demystifying Legal Documents
 
 ### Key Achievements
 - ✅ Full-stack document analysis platform
@@ -223,15 +222,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- **Live Demo**: [Add your deployment URL]
+- **Live Demo**: https://studio--studio-9713313443-cce3b.us-central1.hosted.app/
 - **Documentation**: [HACKATHON.md](HACKATHON.md)
 - **API Documentation**: [API Reference](docs/api.md)
 
 ## 📞 Support
 
 For questions or support:
-- Open an [issue](https://github.com/your-username/legalease-ai/issues)
-- Contact: [your-email@example.com]
+- Open an [issue](https://github.com/vineetnagv/legalease-ai/issues)
+- Contact: [vineetnagv@gmail.com]
 
 ---
 
